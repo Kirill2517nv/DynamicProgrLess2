@@ -1,0 +1,11 @@
+__pycache__/
+build/
+dist/
+*.spec
+credentials.json
+checker.py
+.vscode/
+.env
+.idea
+
+
